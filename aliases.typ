@@ -1,4 +1,4 @@
-#import "@preview/eggs:0.2.0": judge, ex-ref
+#import "@preview/eggs:0.4.0": judge, ex-ref
 
 #let citet = cite.with(form: "prose")
 #let citea = cite.with(form: "author")
